@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5b0113/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: 上清長生寳鑑圖國一
+  hash: sha256:efe34326456797ffdc2f5fea74ec8b70c979b07350e230dbf9162009c7970b68
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5b0113_SJB_000-060679a, image: sjb/06/060679a.png}
+body:
+  text: 鏡銘曰百鍊神金九寸圓形禽獸翼衛七曜通靈鑒包天地威伏魔精名山仙佩奔輪上清明鏡圖符上清長生寶鑑圖終
+  hash: sha256:2a19dab8239f6be8dbcb4c0c29f96d69b3a018e00c5e2290f67eee53daf75cfd
+metadata:
+  title: 上清長生寶鑑圖
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:49:35.358308'
+  source:
+    repository: kanripo
+    path: KR5b0113/KR5b0113_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:06d94d9b006310ea01d014b3187fd2cd79a5e9786366c142fac728a283ee0696
