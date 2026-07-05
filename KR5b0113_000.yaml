@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR5b0113/krp/v1/juan/0
 seq: 0
 front:
-  text: 上清長生寶鑑圖國一
-  hash: sha256:3fdd372199f90315b8dc310908f05e89ce34365aa34e184be6d1511fc52b8dda
+  text: 上清長生寳鑑圖國一
+  hash: sha256:efe34326456797ffdc2f5fea74ec8b70c979b07350e230dbf9162009c7970b68
   markers:
   - {type: page-break, offset: 0, content: '', id: KR5b0113_HFL_000-001a, image: hfl/0196/0196-004.png}
 body:
@@ -23,4 +23,4 @@ metadata:
     YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
     HFL: http://img.kanripo.org/daoist/ztdz/
     WYG: http://img.kanripo.org/general/skqs/wyg/
-hash: sha256:3b836cbb9d2247733a5560944b1c9e8eae358e9ff69959ef2b1e8c7ec46a68a8
+hash: sha256:8937df025360e8af57929c7c891e488fdbe15926527e28fda61a1184a7fc8d80
